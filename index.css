@@ -1,0 +1,10 @@
+:root {
+  --paragraph-fontSize: var(--g-fontSize);
+}
+
+/*
+ * sircus-elements-paragraph
+ ================================================== */
+p {
+  font-size:var(--paragraph-fontSize);
+}
