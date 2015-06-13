@@ -21,8 +21,8 @@ $ npm install sircus-elements-paragraph && npm install sircus-global-proprety
 
 input.css
 ```css
-@import "sircus-global-proprety";
 @import "sircus-elements-paragraph";
+@import "sircus-global-proprety";
 ```
 
 > use sass:
